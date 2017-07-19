@@ -11,6 +11,8 @@ Tensorflow Book:
 Aymeric Damien Site:
 - https://github.com/aymericdamien
 
-Personal Environment Notes: 
-Tensorflow Local Environment
-Installation:  /opt/tensorflow
+
+
+_Personal Environment Notes:_
+- Tensorflow Local Environment
+- Installation:  /opt/tensorflow
