@@ -6,7 +6,7 @@ Google Tensorflow Site:
 - https://www.tensorflow.org/get_started/get_started
 
 Tensorflow Book:
-https://github.com/BinRoot/TensorFlow-Book
+- https://github.com/BinRoot/TensorFlow-Book
 
 Aymeric Damien Site:
 - https://github.com/aymericdamien
