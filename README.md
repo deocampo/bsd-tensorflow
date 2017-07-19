@@ -1,6 +1,6 @@
 # Tensorflow Sandbox
 
-Refernce Site for Content within this Project:
+Reference sites for content within this project:
 
 Google Tensorflow Site:
 - https://www.tensorflow.org/get_started/get_started
