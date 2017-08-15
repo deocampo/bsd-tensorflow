@@ -15,4 +15,4 @@ Aymeric Damien Site:
 
 _Personal Environment Notes:_
 - Tensorflow Local Environment
-- Installation:  /opt/tensorflow
+-- Installation:  /opt/tensorflow
