@@ -14,13 +14,13 @@ Aymeric Damien Site:
 
 # Extension Packages
 ### 1. Introduction
-- Extended from the following (source)[https://github.com/aymericdamien/TensorFlow-Examples/tree/master/examples/1_Introduction].
+- Extended from the following [source](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/examples/1_Introduction).
 
 ### 2. Basic
-- Extended from the following (source)[https://github.com/aymericdamien/TensorFlow-Examples/tree/master/examples/2_BasicModels].
+- Extended from the following [source](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/examples/2_BasicModels).
 
 ### 3. Model
-- Extended from the following (source)[https://github.com/aymericdamien/TensorFlow-Examples/tree/master/notebooks/2_BasicModels].
+- Extended from the following [source](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/notebooks/2_BasicModels).
 
 # Personal Environment
 
