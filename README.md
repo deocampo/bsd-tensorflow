@@ -11,12 +11,33 @@ Tensorflow Book:
 Aymeric Damien Site:
 - https://github.com/aymericdamien
 
-# Extensions
-## 1. 
-## 2. 
-## 3. 
+
+# Extension Packages
+### 1. Introduction
+- Extended from the following (source)[https://github.com/aymericdamien/TensorFlow-Examples/tree/master/examples/1_Introduction].
+
+### 2. Basic
+- Extended from the following (source)[https://github.com/aymericdamien/TensorFlow-Examples/tree/master/examples/2_BasicModels].
+
+### 3. Model
+- Extended from the following (source)[https://github.com/aymericdamien/TensorFlow-Examples/tree/master/notebooks/2_BasicModels].
 
 # Personal Environment
 
-_Notes:_
-- Tensorflow Local Environment - Installation:  /opt/tensorflow
+### Installation : 
+- Used the instruction on this [site](https://www.tensorflow.org/install/install_mac)
+- Tensorflow Local Environment at /opt/tensorflow
+
+### Development :
+- Used Eclipse version Version: Oxygen Release (4.7.0)
+- Installed PyDev for Eclipse 5.8.0.201706061859
+
+### Executions:
+- Navigate to the module (basics, introduction, models, etc)
+- Right click the python file to execute.
+- Select "Run As" - "Python Run" 
+
+
+_To Do Next:_
+1. [Logistic Regression](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/notebooks/2_BasicModels)
+2. [Nearest Neighbor](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/notebooks/2_BasicModels)
