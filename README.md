@@ -11,7 +11,12 @@ Tensorflow Book:
 Aymeric Damien Site:
 - https://github.com/aymericdamien
 
+# Extensions
+## 1. 
+## 2. 
+## 3. 
 
+# Personal Environment
 
-_Personal Environment Notes:_
+_Notes:_
 - Tensorflow Local Environment - Installation:  /opt/tensorflow
