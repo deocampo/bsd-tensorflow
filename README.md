@@ -21,6 +21,10 @@ Aymeric Damien Site:
 
 ### 3. Model
 - Extended from the following [source](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/notebooks/2_BasicModels).
+#### a. Linear Regression : theory behind the algorythm from the following [site](https://en.wikipedia.org/wiki/Linear_regression).
+#### b. Logistic Regressions : theory behind the algorythm from the following [site](https://en.wikipedia.org/wiki/Logistic_regression).
+#### c. Random Forest : theory behind the algorythm from the following [site](https://en.wikipedia.org/wiki/Random_forest).
+
 
 # Personal Environment
 
