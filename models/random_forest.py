@@ -1,8 +1,12 @@
 '''
-Created on Sep 3, 2017
+Original Author:
+Author: Aymeric Damien
+Project: https://github.com/aymericdamien/TensorFlow-Examples/
 
-@author: deocampo
+Modified on Sep 3, 2017
+@author:  Dondi De Ocampo
 '''
+
 from __future__ import print_function
 
 import tensorflow as tf

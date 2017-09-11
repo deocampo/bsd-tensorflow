@@ -1,7 +1,10 @@
 '''
-Created on Aug 25, 2017
+Original Author:
+Author: Aymeric Damien
+Project: https://github.com/aymericdamien/TensorFlow-Examples/
 
-@author: deocampo
+Modified on Aug 25, 2017
+@author: Dondi De Ocampo
 '''
 
 import tensorflow as tf
