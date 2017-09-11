@@ -1,7 +1,10 @@
 '''
-Created on Aug 25, 2017
+Original Author:
+Author: Aymeric Damien
+Project: https://github.com/aymericdamien/TensorFlow-Examples/
 
-@author: deocampo
+Modified on Aug 25, 2017
+@author: Dondi De Ocampo
 '''
 
 
@@ -21,10 +24,10 @@ mnist = input_data.read_data_sets("/tmp/data/", one_hot=True)
 full_data_x = mnist.train.images
 
 # Parameters
-num_steps = 50 # Total steps to train
-batch_size = 1024 # The number of samples per batch
-k = 25 # The number of clusters
-num_classes = 10 # The 10 digits
+num_steps = 55 #  Tuning from 50 - Total steps to train
+batch_size = 2000 # Tuning from 1024  - The number of samples per batch
+k = 30 # Tuning from 25 -  The number of clusters
+num_classes = 20 # Tuning from 10 - The 10 digits
 num_features = 784 # Each image is 28x28 pixels
 
 # Input images
